@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588780240780.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2639747173",
+    "id" : "FB044EFC",
+    "lastKnownWriteTime" : 1588780260,
+    "last_content_update" : 1588780260133,
+    "path" : "C:/Users/AD/Desktop/data_scientist_tool_box/Version_control_github/Hello world.R",
+    "project_path" : "Hello world.R",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
